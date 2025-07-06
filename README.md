@@ -1,6 +1,6 @@
 ![Poster](military.jpg)
 # Laptop Price Predictor using Machine Learning
-**Live App**: [Click to try the App](https://saiful-islam-rupom-laptop-price-predictor.streamlit.app/)
+**Live App**: [Click to Try the App](https://saiful-islam-rupom-laptop-price-predictor.streamlit.app/)
 
 ## Project Overview
 This project is an interactive web application that predicts the price of a laptop based on its specifications using a regression-based machine learning model. It is powered by Random Forest Regressor and deployed using Streamlit Cloud for public access.
