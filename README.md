@@ -90,6 +90,9 @@ This project follows a complete end-to-end machine learning pipeline:
 ## License
 This project is licensed under the [Apache-2.0 License](LICENSE)
 
+## Acknowledgements
+A special thanks to [Nitish Singh](https://www.linkedin.com/in/nitish-singh-03412789/), whose tutorial on laptop price prediction using machine learning served as the foundational guide and inspiration for this project. His clear explanations and practical walkthrough significantly accelerated my understanding of end-to-end model building and deployment.
+
 ## Author
-- [Saiful Islam Rupom](https://www.linkedin.com/in/saiful-islam-rupom/)
-- Email: [saifulislam558855@gmail.com]
+[Saiful Islam Rupom](https://www.linkedin.com/in/saiful-islam-rupom/)
+Email: saifulislam558855@gmail.com
