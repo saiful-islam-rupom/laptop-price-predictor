@@ -1,4 +1,4 @@
-![Poster](poster.png)
+![Poster](images/poster.png)
 # Laptop Price Predictor using Machine Learning
 **Live App**: [Click to Try the App](https://saiful-islam-rupom-laptop-price-predictor.streamlit.app/)
 
@@ -75,7 +75,8 @@ This project follows a complete end-to-end machine learning pipeline:
 | Deployment      | Streamlit Community Cloud            |
 
 ## App Snapshot
-![App Screenshot](screenshot.jpg)
+![App Screenshot 1](images/screenshot_1.png)
+![App Screenshot 2](images/screenshot_2.png)
 
 ## Future Enhancements
 - Add live exchange rate integration using a currency API
